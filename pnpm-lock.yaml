@@ -66,6 +66,9 @@ importers:
       '@types/react-dom':
         specifier: 19.0.3
         version: 19.0.3(@types/react@19.0.7)
+      google:
+        specifier: link:@types/@next/font/google
+        version: link:@types/@next/font/google
 
 packages:
 
